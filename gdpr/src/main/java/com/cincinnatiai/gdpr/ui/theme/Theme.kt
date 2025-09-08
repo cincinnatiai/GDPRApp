@@ -51,7 +51,7 @@ fun GDPRAppTheme(
 
     MaterialTheme(
         colorScheme = colorScheme,
-        typography = GDPRLibrary.instance().typography,
+        typography = Typography,
         content = content
     )
 }

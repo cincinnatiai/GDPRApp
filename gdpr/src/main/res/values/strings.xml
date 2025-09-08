@@ -1,3 +1,40 @@
 <resources>
     <string name="app_name">gdpr</string>
+    <string name="back">Back</string>
+    <string name="submit">Submit</string>
+    <string name="cancel">Cancel</string>
+    <string name="email_address">Email Address</string>
+    <string name="warning">Warning</string>
+    <string name="ok">OK</string>
+
+    <!-- Account Details -->
+    <string name="privacy_requests">Privacy Requests</string>
+    <string name="request_copy">Request a copy of your personal data</string>
+    <string name="request_deletion">Request deletion of your personal data</string>
+    <string name="enter_email_to_submit">Please enter your email address to submit this request:</string>
+    <string name="invalid_email_warning">Please enter a valid email address</string>
+    <string name="confirm_account_deletion">Confirm Account Deletion</string>
+    <string name="confirm_account_delete_message">Are you sure you want to request deletion of all your personal data for %s? This action cannot be undone and will permanently remove all your information.</string>
+    <string name="delete_my_data">Delete My Data</string>
+
+    <!-- Current User -->
+    <string name="current_user_screen_title">GDPR: Current User</string>
+    <string name="current_user_title">Current User - Everything</string>
+    <string name="current_user_subtitle">All data related to current user</string>
+    <string name="email_address_placeholder">Enter your email</string>
+    <string name="request_type">Request Type</string>
+    <string name="information_request">Information Request</string>
+    <string name="information_request_subtitle">You will receive a copy of all personal information we have on file for your account. This may take up to 30 days to process.</string>
+    <string name="delete_request">Delete Request</string>
+    <string name="delete_request_subtitle">This will permanently delete your account and all associated data. This action cannot be undone.</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="are_you_sure_title">Are you sure?</string>
+    <string name="delete_account_message">This action will result in the complete deletion of your account and all of your information.</string>
+    <string name="delete_account_warning">This action cannot be undone.</string>
+    <string name="existing_request_title">Existing Request</string>
+    <string name="existing_request_message">There was already an existing request for this account: %s</string>
+    <string name="existing_request_info">Requests can take time and we will attempt to complete this request within 90 days.</string>
+    <string name="information_request_success">The information request has been filed successfully.</string>
+    <string name="user_deleted_title">User Delete Requested</string>
+    <string name="user_deleted_message">Your account has been requested to be deleted. You will be logged out and will get an email when your account and data is removed. Please allow up to 90 days for all data to be deleted.</string>
 </resources>
